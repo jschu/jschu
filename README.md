@@ -8,13 +8,14 @@
 
 ## 🎓 Stats
 <p>
-  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=jschu&show_icons=true&theme=react&&count_private=true&hide_border=true" /> <img height="160em" width="400em" src="http://github-readme-streak-stats.herokuapp.com/?user=jschu&theme=react&hide_border=true" />
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=jschu&show_icons=true&theme=react&&count_private=true&hide_border=true" />
+</p>
+<p>
+  <img height="160em" width="400em" src="http://github-readme-streak-stats.herokuapp.com/?user=jschu&theme=react&hide_border=true" />
 </p>
 </br>
 
 ## 📈 Activity Graph
 <p>
-  <a href="https://github.com/jschu/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=jschu&theme=react-dark&area=true&hide_border=true" width="100%">
-  </a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=jschu&theme=react-dark&area=true&hide_border=true" width="100%">
 </p>
